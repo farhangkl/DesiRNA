@@ -1,5 +1,12 @@
 # 2DesignRNA
-DesiRNA is a structure-based design of RNA sequences with a Monte Carlo approach. DesiRNA accurately design seqeuness for a given target secondary structures including psudonknots and multichains.
+DesiRNA is an innovative tool that facilitates the precise design of RNA sequences based on their desired secondary structures, even incorporating pseudoknots and multichains. Leveraging the power of the Monte Carlo approach, DesiRNA offers a reliable and efficient solution for generating RNA sequences with remarkable accuracy.
+
+# Key Features:
+
+1- Efficient Monte Carlo algorithm for sequence design
+2- Target secondary structure specification, including pseudoknots and multichains
+3- High-precision sequence generation for desired RNA structures
+4- User-friendly interface and easy integration into existing workflows
 
 
 # Requirements
@@ -67,7 +74,7 @@ Remember, the more precise the input parameters, the more accurate the resulting
 >seq_restr
 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 ```
-## Sample of genearted output for 10 designed sequences
+## Sample output of 10 best designed sequences
 GCUGGUACGAGUCUGCUCGGAGGUUCCUAUUGCCUACGAAACGGCACGGCAUCAAGACUCAUCCUUAGUUCACCCGACGGCCGCAUCUUAUGCGGCCACCACCGGAAGCUGGUACCAGCC
 CAAUCCCUUCGUUGUCCCCUAUACCCAGUUACCAUCUUGUGACCCAUUGGUUUCGAGCUUGUAGGCGGCCUCCGAGUUCGGCUCCCACAGGGAGCCGCGACGCCAGCAUGUAGGGAUUGC
 CACUACACUUAGUGGUAAGCAAAUCCACCAUUCUAGAACGGAACCACAGAAUCCGCAAAUAUGCGCUAACGUUCAUGGUGACAACUCUCAGUUGUCAAACAUCCCGUUUAGGUGUAGUGA
