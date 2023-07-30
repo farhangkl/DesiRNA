@@ -19,10 +19,15 @@ DesiRNA is an innovative tool that facilitates the precise design of RNA sequenc
    - Description: `numpy` is a powerful library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a vast collection of mathematical functions.
    `pip install numpy`
    - Official Website: [NumPy](https://numpy.org/)
-3. **pandas**>=1.1.3:
+## 3. **pandas**>=1.1.3:
     - Description: `pandas` is a popular library for data manipulation and analysis in Python. It provides data structures like DataFrames, which are highly efficient for handling structured data.
     `pip install pandas`
     - Official Website: [pandas](https://pandas.pydata.org/)
+##  4. matplotlib>=3.3.2:
+    - Description: matplotlib is a widely-used library for creating static, interactive, and animated visualizations in Python. It provides a flexible and comprehensive set of tools for generating plots, charts, and graphs.
+    `pip install matplotlib`
+    - Official Website: [matplotlib] )(https://matplotlib.org/)
+
 # Usage
 DesiRNA is excutable in a commandline enviroment and iis excutable in both Wndows and bash enviroment.
 ```bash
