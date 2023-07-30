@@ -1,0 +1,6 @@
+>name
+1c2x
+>sec_struct
+((((((((.(.....((.(((.(.......((((.............))))........).)))..)).((.......((((((((...)))))))).......))...).)))))))).
+>seq_restr
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
